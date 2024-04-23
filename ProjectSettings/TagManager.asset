@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Slot
+  - Item
+  - Sword
+  - Sub
+  - Image
+  - Accessory
+  - Ground
+  - Potion
+  - axe
+  - bow
+  - dagger
+  - hammer
+  - pole
+  - shield
+  - sword
+  - dagger2
+  - D.sword
+  - Bow
+  - WeaponData
+  - PlayerStatData
+  - ank
+  - book
+  - bracelet
+  - horuseye
+  - jar
+  - necklace
+  - ring
+  - scarab
+  - scroll
+  - shoe
+  - snake
+  - spinx
+  - staff
+  - cat
+  - potion1
+  - potion2
+  - potion3
+  - potion4
+  - potion5
+  - WEAPON
+  - Coin
+  - ENEMY
+  - PUNCH
+  - PLAYER
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Slot
+  - Water
+  - UI
+  - Item
+  - Bow
+  - Sword
+  - Save
+  - Store
+  - Weapon
+  - Accessory
+  - Potion
+  - ENEMY
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 481727351
+    locked: 0
+  - name: Slot
+    uniqueID: 3670687709
+    locked: 0
+  - name: ItemSlot
+    uniqueID: 828996353
+    locked: 0
+  - name: Image
+    uniqueID: 3979210537
+    locked: 0
